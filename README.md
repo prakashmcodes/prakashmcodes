@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🔭 Speak less. If it works, let it speak.⚡ Fun fact ~ Temporary is Permanent!!!
+### 🔭 Speak less. If it works, let it speak.<br>⚡ Fun fact ~ Temporary is Permanent!!!
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prakashmcodes&color=green&style=flat)](https://github.com/prakashmcodes)
