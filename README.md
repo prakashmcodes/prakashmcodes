@@ -1,3 +1,9 @@
+## 🪶 Lines That Shaping My Life
+
+<img width="967" height="270" alt="kural_619" src="https://github.com/user-attachments/assets/34b9b890-335d-4123-b443-ece057e178dd" />
+
+
+
 # 💫 About Me:
 ### 🔭 Speak less. If it works, let it speak.<br>⚡ Fun fact ~ Temporary is Permanent!!!
 
